@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Detect fake news using Machine Learning</h1>
+</div>
+<hr
+<div>
+    <h2>Disclaimer:</h2>
+    <p>
+        This is a simple web application that uses trained machine learning models to predict whether a given text is fake news or not. 
+        The model was trained on a dataset of news articles and social media posts and their labels. 
+        The accuracy of the model may vary depending on the quality of the input text and the complexity of the news article. 
+        Please use this tool for educational purposes only and do not rely on it for making important decisions.
+    </p>
+    <p>
+        The datasets the models were trained on subjects related to politics and the COVID-19 pandemic.
+    </p>
+</div>
+<div class="container">
+    <div class="col-md-6 col-sm-12 mb-3">
+        <a type="button" class="btn btn-lightBlue home-btn" asp-area="" asp-controller="FakeNewsDetection" asp-action="Index">Predict article</a>
+    </div>
+</div>

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|c:\\users\\horia\\documents\\documente\\facultate\\master an ii\\dizertatie\\aplicatie\\fakenewswebapp\\fakenewsdetection\\fakenewsdetection\\views\\fakenewsdetection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|solutionrelative:fakenewsdetection\\views\\fakenewsdetection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|c:\\users\\horia\\documents\\documente\\facultate\\master an ii\\dizertatie\\aplicatie\\fakenewswebapp\\fakenewsdetection\\fakenewsdetection\\controllers\\fakenewsdetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|solutionrelative:fakenewsdetection\\controllers\\fakenewsdetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|c:\\users\\horia\\documents\\documente\\facultate\\master an ii\\dizertatie\\aplicatie\\fakenewswebapp\\fakenewsdetection\\fakenewsdetection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|solutionrelative:fakenewsdetection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|c:\\users\\horia\\documents\\documente\\facultate\\master an ii\\dizertatie\\aplicatie\\fakenewswebapp\\fakenewsdetection\\fakenewsdetection\\dto\\newsdatatosenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|solutionrelative:fakenewsdetection\\dto\\newsdatatosenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|c:\\users\\horia\\documents\\documente\\facultate\\master an ii\\dizertatie\\aplicatie\\fakenewswebapp\\fakenewsdetection\\fakenewsdetection\\models\\newsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9D3D83-A705-4D53-A074-3A61BA088D3C}|FakeNewsDetection\\FakeNewsDetection.csproj|solutionrelative:fakenewsdetection\\models\\newsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FakeNewsDetection\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FakeNewsDetection\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:51:03.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsData.cs",
+              "DocumentMoniker": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Models\\NewsData.cs",
+              "RelativeDocumentMoniker": "FakeNewsDetection\\Models\\NewsData.cs",
+              "ToolTip": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Models\\NewsData.cs",
+              "RelativeToolTip": "FakeNewsDetection\\Models\\NewsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:33:49.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FakeNewsDetectionController.cs",
+              "DocumentMoniker": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Controllers\\FakeNewsDetectionController.cs",
+              "RelativeDocumentMoniker": "FakeNewsDetection\\Controllers\\FakeNewsDetectionController.cs",
+              "ToolTip": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Controllers\\FakeNewsDetectionController.cs",
+              "RelativeToolTip": "FakeNewsDetection\\Controllers\\FakeNewsDetectionController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:33:44.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Views\\FakeNewsDetection\\Index.cshtml",
+              "RelativeDocumentMoniker": "FakeNewsDetection\\Views\\FakeNewsDetection\\Index.cshtml",
+              "ToolTip": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\Views\\FakeNewsDetection\\Index.cshtml",
+              "RelativeToolTip": "FakeNewsDetection\\Views\\FakeNewsDetection\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:33:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsDataToSendDTO.cs",
+              "DocumentMoniker": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\DTO\\NewsDataToSendDTO.cs",
+              "RelativeDocumentMoniker": "FakeNewsDetection\\DTO\\NewsDataToSendDTO.cs",
+              "ToolTip": "C:\\Users\\horia\\Documents\\Documente\\Facultate\\Master An II\\Dizertatie\\Aplicatie\\FakeNewsWebApp\\FakeNewsDetection\\FakeNewsDetection\\DTO\\NewsDataToSendDTO.cs",
+              "RelativeToolTip": "FakeNewsDetection\\DTO\\NewsDataToSendDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:33:50.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
